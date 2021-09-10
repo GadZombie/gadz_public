@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QixAlgorithm", "QixAlgorithm.csproj", "{C0A679E7-BFB6-48FF-AC19-F4458474A719}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0A679E7-BFB6-48FF-AC19-F4458474A719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0A679E7-BFB6-48FF-AC19-F4458474A719}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0A679E7-BFB6-48FF-AC19-F4458474A719}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0A679E7-BFB6-48FF-AC19-F4458474A719}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE686211-ACBC-4DD1-8A6D-9FC689B150DC}
+	EndGlobalSection
+EndGlobal
