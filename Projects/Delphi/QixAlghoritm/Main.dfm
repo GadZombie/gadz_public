@@ -1,0 +1,33 @@
+object frmMain: TfrmMain
+  Left = 0
+  Top = 0
+  Caption = 'frmMain'
+  ClientHeight = 595
+  ClientWidth = 717
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  OnCreate = FormCreate
+  OnDestroy = FormDestroy
+  OnShow = FormShow
+  PixelsPerInch = 96
+  TextHeight = 13
+  object pntScreen: TPaintBox
+    Left = 0
+    Top = 0
+    Width = 717
+    Height = 595
+    Align = alClient
+    OnMouseDown = pntScreenMouseDown
+    OnMouseMove = pntScreenMouseMove
+    OnPaint = pntScreenPaint
+    ExplicitLeft = 312
+    ExplicitTop = 264
+    ExplicitWidth = 105
+    ExplicitHeight = 105
+  end
+end
