@@ -14,7 +14,7 @@ using System.Threading.Tasks;
  * about it! Have fun.
  * 
  * (c) 2019-04-14 Grzegorz Drozd, 
- * http://classic-games.pl, http://gad.art.pl, gad@gad.art.pl
+ * http://classic-games.pl, https://gadz.pl, gad@gadz.pl
  */
 
 

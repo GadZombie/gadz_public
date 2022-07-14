@@ -1,0 +1,7 @@
+MIDlet-1: RX-800b, , gra
+MIDlet-Info-URL: https://gadz.pl/
+MIDlet-Name: RX-800b
+MIDlet-Vendor: Studio Komputerowe GAD
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-1.0

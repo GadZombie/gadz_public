@@ -24,7 +24,7 @@ using System.Windows.Shapes;
  * Please, download the WriteableBitmapEx.1.6.2 from NuGet if you want to compile this project.
  *
  * (c) 2019-04-14 Grzegorz Drozd, 
- * http://classic-games.pl, http://gad.art.pl, gad@gad.art.pl
+ * http://classic-games.pl, https://gadz.pl, gad@gadz.pl
  */
 
 namespace QixAlgorithm

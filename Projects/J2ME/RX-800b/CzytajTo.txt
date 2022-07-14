@@ -1,0 +1,69 @@
+-------------------------------------------------------------------------------
+English version in the ReadMe.txt file.
+
+RX-800b
+Gra dla telefonów komórkowych z obsługą Java
+
+-------------------------------------------------------------------------------
+
+autor gry: Grzegorz Drozd
+2003-2020 Zombie Mastah
+
+RX-800b to gra w stylu Boulder Dash, z kilkoma dodatkowymi elementami. Poza
+standardowym celem etapów, czyli zbieraniem przedmiotów, część etapów polega
+na niszczeniu bomb, czy likwidacji potworków.
+
+Dostępnych jest 19 etapów, jednak sama gra nie jest w pełni ukończona 
+i dopracowana. Jednak bieżąca wersja jest już grywalna.
+
+W archiwum znajdziesz dwie wersje gry, różniące się grafiką. Pierwsza to wersja
+monochromatyczna, przystosowana do telefonów ze zwykłym jednokolorowym 
+wyświetlaczem LCD. Druga wersja to w pełni kolorowa gra, na nowsze modele
+telefonów. W samej rozgrywce nie ma różnicy między wersjami.
+
+-------------------------------------------------------------------------------
+
+Stworzyłem tę grę dla mojego telefonu Siemens SL45i, dlatego jest dopasowana
+do je rozdzielczości i monochromatycznego ekranu (2 kolory).
+
+Aby ją uruchomić potrzebujesz telefonu z obsługą Java J2ME lub dowolnego 
+emulatora J2ME dla dowolnego komputera. Sprawdzałem w emulatorze KEmulator 
+1.0.3 dla Windows 10 i działa prawidłowo. Można go pobrać z internetu za
+darmo, np. stąd: https://archive.org/details/KEmulator103
+
+Jeśli wybierzesz KEmulator, to najlepsza metoda uruchomienia gry:
+1) Uruchom KEmulator
+2) Wybierz z menu Midlet opcję "Load jar"
+3) Otwórz plik RX-800b black white version.jar lub RX-800b color version.jar
+4) Gra powinna włączyć się natychmiast
+5) Możliwe, że będzie potrzeba otworzyć okno z klawiaturą telefonu w menu View
+opcją "Keypad".
+
+I można grać. Możliwe, że rozdzielczość w oknie będzie niedopasowana do gry.
+Możesz próbować pozmieniać ustawienia w menu Tool lub View>Options.
+
+Zalecane ustawienia KEmulator:
+Device type: Siemens C65
+Screen width: 101px
+Screen height: 100px
+
+-------------------------------------------------------------------------------
+
+Pliki i foldery
+
+W folderze Build znajdziesz skompilowany plik gry (*.jar).
+W folderze Screenshots są zrzuty ekranu z gry.
+W folderze Source znajdziesz źródła gry w Java!
+
+-------------------------------------------------------------------------------
+
+Ta gra to freeware. Można ją rozpowszechniać w niezmienionej formie, tylko 
+za darmo. Pozostaw z nią także ten plik tekstowy.
+
+-------------------------------------------------------------------------------
+https://gadz.pl/
+Można do mnie mailować: gad@gadz.pl
+
+2020-06-29
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------

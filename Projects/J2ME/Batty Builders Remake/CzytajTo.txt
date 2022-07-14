@@ -1,0 +1,55 @@
+-------------------------------------------------------------------------------
+English version in the ReadMe.txt file.
+
+Batty Builders
+J2ME Remake (gra dla telefonów komórkowych z obsługą Java)
+
+-------------------------------------------------------------------------------
+
+autor gry: Grzegorz Drozd
+2003-2020 Zombie Mastah
+
+Oryginalna gra dla komputerów Atari 8-bit: M. D. Caballero
+English Software Company 1983
+
+-------------------------------------------------------------------------------
+
+Stworzyłem tę grę dla mojego telefonu Siemens SL45i, dlatego jest dopasowana
+do je rozdzielczości i monochromatycznego ekranu (2 kolory).
+
+Aby ją uruchomić potrzebujesz telefonu z obsługą Java J2ME lub dowolnego 
+emulatora J2ME dla dowolnego komputera. Sprawdzałem w emulatorze KEmulator 
+1.0.3 dla Windows 10 i działa prawidłowo. Można go pobrać z internetu za
+darmo, np. stąd: https://archive.org/details/KEmulator103
+
+Jeśli wybierzesz KEmulator, to najlepsza metoda uruchomienia gry:
+1) Uruchom KEmulator
+2) Wybierz z menu Midlet opcję "Load jar"
+3) Otwórz plik Batty.jar
+4) Gra powinna włączyć się natychmiast
+5) Możliwe, że będzie potrzeba otworzyć okno z klawiaturą telefonu w menu View
+opcją "Keypad".
+
+I można grać. Możliwe, że rozdzielczość w oknie będzie niedopasowana do gry.
+Możesz próbować pozmieniać ustawienia w menu Tool lub View>Options.
+
+-------------------------------------------------------------------------------
+
+Pliki i foldery
+
+W folderze Build znajdziesz skompilowany plik gry (*.jar).
+W folderze Screenshots są zrzuty ekranu z gry.
+W folderze Source znajdziesz źródła gry w Java!
+
+-------------------------------------------------------------------------------
+
+Ta gra to freeware. Można ją rozpowszechniać w niezmienionej formie, tylko 
+za darmo. Pozostaw z nią także ten plik tekstowy.
+
+-------------------------------------------------------------------------------
+https://gadz.pl/
+Można do mnie mailować: gad@gadz.pl
+
+2020-06-16
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
